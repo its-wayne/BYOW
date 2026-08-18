@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# backups of patched class files
+*.class.bak
+
+# runtime save-game state
+save.txt
